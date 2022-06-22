@@ -29,8 +29,11 @@ img {
 
 .things {
   display: flex;
+  align-items: center;
+
 }
 
 .info {
   max-width: 200px;
 }
+
